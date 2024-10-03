@@ -1,4 +1,4 @@
-# QuotesApp
+# QuotesApp using Expo-Go
 A React Native application that provides random quotes from different people, along with a related photo of the author.
 
 ## Prerequisites
