@@ -10,14 +10,14 @@ Before running the app, make sure you have the following installed on your machi
   4. Expo CLI - Expo is required to run the project in a local environment.
      You can install it by running:  npm install -g expo-cli
 
-Setup Instructions
+## Setup Instructions
   1. Clone the repository to your local machine using Git: git clone https://github.com/yourusername/quotesapp.git
   2. Navigate to the project folder: cd quotesapp
   3. Install the project dependencies: npm install
   4. Run the Expo server to start the app: expo start
   5. Use the Expo Go app on your mobile device (iOS or Android) to scan the QR code and launch the app. Alternatively, you can use an emulator if set up.
 
-Features
+## Features
 - Fetches random quotes from the ZenQuotes API.
 - Displays an image related to the author using the Pexels API.
 - Simple and clean UI for browsing quotes.
